@@ -97,7 +97,7 @@ Big thanks to **Robotics Back-End** for this excellent tutorial series:
 
 Feel free to reach out for collaboration or ROS2 discussions!
 
-**Your Name**  
+**Akindu Kalhan**  
 📧 akinduk619@gmail.com 
 🌐 [LinkedIn](https://www.linkedin.com/in/akindu-kalhan/) • [GitHub](https://github.com/akindu-k)
 
